@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="length">
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Decimeter</item>
+        <item>Light Year</item>
+        <item>Parsec</item>
+        <item>Astronomical Unit</item>
+        <item>Nautical Mile</item>
+    </string-array>
+    <string-array name="volume">
+        <item>Liter</item>
+        <item>Cubic Foot</item>
+        <item>Cubic Inch</item>
+        <item>Cubic Kilometer</item>
+        <item>Cubic Centimeter</item>
+        <item>Cubic Millimeter</item>
+        <item>Gallon</item>
+        <item>Quart</item>
+        <item>Pint</item>
+        <item>Cubic Yard</item>
+        <item>Gill</item>
+        <item>Fluid Ounce</item>
+        <item>Tablespoon</item>
+        <item>Teaspoon</item>
+        <item>Hectoliter</item>
+        <item>Deciliter</item>
+        <item>Centiliter</item>
+        <item>Milliliter</item>
+        <item>Cubic Meter</item>
+        <item>Cup</item>
+        <item>Cubic Mile</item>
+    </string-array>
+    <string-array name="mass">
+        <item>Hundredweight</item>
+        <item>Milligram</item>
+        <item>Ton</item>
+        <item>Kilogram</item>
+        <item>Microgram</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+        <item>Gram</item>
+    </string-array>
+    <string-array name="temp">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="time">
+        <item>Second</item>
+        <item>Week</item>
+        <item>Minute</item>
+        <item>Year</item>
+        <item>Millisecond</item>
+        <item>Hour</item>
+        <item>Day</item>
+    </string-array>
+    <string-array name="speed">
+        <item>Astronomical Unit Per Year</item>
+        <item>Light Year Per Year</item>
+        <item>Light Year Per Millisecond</item>
+        <item>Parsec Per Second</item>
+        <item>Parsec Per Minute</item>
+        <item>Parsec Per Hour</item>
+        <item>Parsec Per Day</item>
+        <item>Parsec Per Year</item>
+        <item>Nautical Mile Per Second</item>
+        <item>Nautical Mile Per Minute</item>
+        <item>Nautical Mile Per Hour</item>
+        <item>Nautical Mile Per Day</item>
+        <item>Nautical Mile Per Year</item>
+        <item>Nautical Mile Per Millisecond</item>
+        <item>Light Year Per Second</item>
+        <item>Astronomical Unit Per Millisecond</item>
+        <item>Mile Per Second</item>
+        <item>Decimeter Per Millisecond</item>
+        <item>Millimeter Per Minute</item>
+        <item>Inch Per Day</item>
+        <item>Light Year Per Day</item>
+        <item>Foot Per Second</item>
+        <item>Light Year Per Hour</item>
+        <item>Parsec Per Millisecond</item>
+        <item>Foot Per Week</item>
+        <item>Millimeter Per Week</item>
+        <item>Centimeter Per Week</item>
+        <item>Yard Per Week</item>
+        <item>Light Year Per Week</item>
+        <item>Parsec Per Week</item>
+        <item>Nautical Mile Per Week</item>
+        <item>Inch Per Millisecond</item>
+        <item>Meter Per Minute</item>
+        <item>Meter Per Hour</item>
+        <item>Meter Per Day</item>
+        <item>Meter Per Year</item>
+        <item>Meter Per Millisecond</item>
+        <item>Inch Per Second</item>
+        <item>Inch Per Minute</item>
+        <item>Millimeter Per Year</item>
+        <item>Millimeter Per Hour</item>
+        <item>Mile Per Hour</item>
+        <item>Mile Per Minute</item>
+        <item>Light Year Per Minute</item>
+        <item>Inch Per Week</item>
+        <item>Foot Per Minute</item>
+        <item>Foot Per Day</item>
+        <item>Mile Per Millisecond</item>
+        <item>Decimeter Per Second</item>
+        <item>Decimeter Per Minute</item>
+        <item>Decimeter Per Hour</item>
+        <item>Decimeter Per Day</item>
+        <item>Decimeter Per Year</item>
+        <item>Decimeter Per Week</item>
+        <item>Astronomical Unit Per Week</item>
+        <item>Kilometer Per Second</item>
+        <item>Kilometer Per Minute</item>
+        <item>Kilometer Per Hour</item>
+        <item>Kilometer Per Day</item>
+        <item>Kilometer Per Year</item>
+        <item>Kilometer Per Week</item>
+        <item>Kilometer Per Millisecond</item>
+        <item>Astronomical Unit Per Second</item>
+        <item>Astronomical Unit Per Minute</item>
+        <item>Astronomical Unit Per Hour</item>
+        <item>Astronomical Unit Per Day</item>
+        <item>Mile Per Week</item>
+        <item>Foot Per Hour</item>
+        <item>Mile Per Year</item>
+        <item>Millimeter Per Day</item>
+        <item>Foot Per Year</item>
+        <item>Foot Per Millisecond</item>
+        <item>Yard Per Second</item>
+        <item>Yard Per Minute</item>
+        <item>Yard Per Hour</item>
+        <item>Yard Per Day</item>
+        <item>Yard Per Year</item>
+        <item>Meter Per Second</item>
+        <item>Millimeter Per Millisecond</item>
+        <item>Yard Per Millisecond</item>
+        <item>Centimeter Per Second</item>
+        <item>Centimeter Per Minute</item>
+        <item>Centimeter Per Hour</item>
+        <item>Centimeter Per Day</item>
+        <item>Centimeter Per Year</item>
+        <item>Centimeter Per Millisecond</item>
+        <item>Millimeter Per Second</item>
+        <item>Inch Per Year</item>
+        <item>Inch Per Hour</item>
+        <item>Mile Per Day</item>
+        <item>Meter Per Wee</item>
+    </string-array>
+</resources>
